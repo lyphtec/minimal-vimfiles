@@ -7,7 +7,7 @@ the Raspberry Pi.
 ## Install
 
 ```bash
-git clone https://github.com/lyphtec/vimfiles ~/.vimfiles
+git clone https://github.com/lyphtec/minimal-vimfiles ~/.vimfiles
 cd ~/.vimfiles
 ./install.sh
 ```
